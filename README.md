@@ -1,3 +1,7 @@
+You can click on link below to redirect to the site.
+https://shani-patel-17.github.io/Textutils-React_app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
